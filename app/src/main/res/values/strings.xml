@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pong Test</string>
+    <string name="button_newGame">New Game</string>
+    <string name="text_highScoreLabel">High Score:</string>
+    <string name="msg_ready">Ready?</string>
+    <string name="msg_game_over">Game Over</string>
+    <string name="msg_winner_player_1">P1 wins !</string>
+    <string name="msg_winner_player_2">P2 wins !</string>
+    <string name="difficulty">Difficulty: </string>
+    
+    <string name="one_player">One Player</string>
+    <string name="two_players">Two Players</string>
+
+    <string-array name="difficulty_level_names">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+        <item>Absurd</item>
+    </string-array>
+
+</resources>
